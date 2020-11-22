@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+#apps {
+    height: 800px;
+    width: 100%;
+    background-color: cyan;
+}
+
+#cbots {
+    height: 800px;
+    width: 100%;
+    background-color: lightcoral;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+.line {
+    height: 6px;
+    width: 110px;
+    background-color: black;
+    margin: 8px auto;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    transition: transform 0.8s;
+    margin-top: 20px;
+}
+
+
+img:hover {
+    transform: scale(0.8);
+}
+
+#myCarousel {
+    background-color: lightcoral;
+    height: 450px;
+}
+
+p {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 50px;
+    color: white;
+}
+
+.container {
+    background-color: bisque;
+}
